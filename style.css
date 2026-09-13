@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    background-color: #f2f5f9;
+    color: #222;
+    font-family: Arial, sans-serif;
+}
+
+#header {
+    background-color: #1e3a8a;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+#main-heading {
+    font-size: 40px;
+}
+
+.menu {
+    background-color: #111827;
+    text-align: center;
+    padding: 15px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+#main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+#home,
+#technology,
+#schedule,
+#mood,
+#layout,
+#position,
+#float,
+#contact {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+}
+
+h2 {
+    color: #1e3a8a;
+    font-size: 2em;
+}
+
+h3 {
+    color: #2563eb;
+}
+
+.highlight {
+    background-color: #e0f2fe;
+    padding: 15px;
+    border: 2px solid #93c5fd;
+}
+
+img {
+    width: 50%;
+    margin: 20px;
+    border: 3px solid #2563eb;
+}
+
+button {
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #777;
+    padding: 10px;
+}
+
+th {
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.static-box {
+    position: static;
+    background-color: #dbeafe;
+    padding: 15px;
+    margin: 10px;
+}
+
+.relative-box {
+    position: relative;
+    left: 20px;
+    background-color: #dcfce7;
+    padding: 15px;
+    margin: 10px;
+}
+
+.absolute-container {
+    position: relative;
+    height: 100px;
+    background-color: #fef3c7;
+    margin: 20px;
+}
+
+.absolute-box {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background-color: #fee2e2;
+    padding: 15px;
+}
+
+.left-box {
+    float: left;
+    width: 40%;
+    padding: 30px;
+    background-color: #dbeafe;
+    text-align: center;
+}
+
+.right-box {
+    float: right;
+    width: 40%;
+    padding: 30px;
+    background-color: #dcfce7;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+form {
+    width: 60%;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 8px;
+}
+
+input[type="color"] {
+    width: 60px;
+    height: 40px;
+}
+
+input[type="submit"] {
+    background-color: #1e3a8a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+
+#footer {
+    background-color: #111827;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
