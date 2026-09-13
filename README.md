@@ -173,7 +173,8 @@ This screenshot shows the uploaded project files in the GitHub repository.
 `[<img width="1919" height="1011" alt="Screenshot 2026-09-13 190118" src="https://github.com/user-attachments/assets/5b7dbcc8-22eb-4af7-9b9c-eb792ab50978" />
 ]
 
-
+## 9. GitHub pages
+https://matiullah77.github.io/myfirstweb/
 
 
 ## Conclusion
